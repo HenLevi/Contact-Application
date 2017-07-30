@@ -1,0 +1,21 @@
+.contact{
+    border-radius: 4px;
+    background-color:white;
+    height:300px;
+}
+
+.contactShadow{
+    box-shadow: 0 8px 17px 0 rgba(0, 0, 0, 0.2), 0 6px 10px 0 rgba(0, 0, 0, 0.0);
+}
+.fontPlus{
+    font-size: 5em;
+    color:#1b6d85;
+    display: inline-block;
+    border-radius: 60px;
+    box-shadow: 0px 0px 2px #1b6d85;
+    background-color: white;
+}
+
+.buttonColor{
+    background-color: white;
+}
